@@ -35,9 +35,9 @@ jobs:
           token: ${{ steps.get_token.outputs.token }}
           persist-credentials: false
 
-      # More info: https://github.com/vesoft-inc/auto-sync-repos.
-      - name: Auto Sync
-        uses: vesoft-inc/auto-sync-repos@7d5c7dbca16b4b64fb7668b64fb81337f2daa1a2
+      # More info: https://github.com/rovast/sync-upstream-repo/.
+      - name: GitHub Sync to Upstream Repository
+        uses: rovast/sync-upstream-repo@c90f27f86cd67d3f83899cd52311a3d739efb235
         with:
-          from_repo: 1Password/1password-teams-open-source
-          repo_token: ${{ steps.get_token.outputs.token }}
+          upstream_repo: https://github.com/1Password/1password-teams-open-source
+          token: ${{ steps.get_token.outputs.token }}
