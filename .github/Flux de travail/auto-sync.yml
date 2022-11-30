@@ -3,6 +3,12 @@ name: Pipeline - Auto Sync
 
 on:
   workflow_dispatch:
+<<<<<<< HEAD:.github/workflows/auto-sync.yml
+=======
+  
+  schedule:
+    - cron: '0 0 * * *'
+>>>>>>> 8cdd16e48e8e5ea4a03261173766f849200e20f2:.github/Flux de travail/auto-sync.yml
 
 jobs:
   build:
