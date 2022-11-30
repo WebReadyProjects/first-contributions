@@ -39,5 +39,5 @@ jobs:
       - name: GitHub Sync to Upstream Repository
         uses: rovast/sync-upstream-repo@c90f27f86cd67d3f83899cd52311a3d739efb235
         with:
-          upstream_repo: https://github.com/1Password/1password-teams-open-source
+          upstream_repo: https://github.com/firstcontributions/first-contributions
           token: ${{ steps.get_token.outputs.token }}
