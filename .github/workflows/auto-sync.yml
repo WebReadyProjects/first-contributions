@@ -39,5 +39,5 @@ jobs:
       - name: Auto Sync
         uses: vesoft-inc/auto-sync-repos@7d5c7dbca16b4b64fb7668b64fb81337f2daa1a2
         with:
-          from_repo: 1Password/1password-teams-open-source
+          from_repo: firstcontributions/first-contributions
           repo_token: ${{ steps.get_token.outputs.token }}
