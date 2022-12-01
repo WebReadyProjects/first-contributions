@@ -2,6 +2,7 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[![Pipeline - Auto Sync](https://github.com/wr-projects/first-contributions/actions/workflows/auto-sync.yml/badge.svg?branch=master&event=schedule)](https://github.com/wr-projects/first-contributions/actions/workflows/auto-sync.yml)
 
 #### _Read this in [other languages](translations/Translations.md)._
 
