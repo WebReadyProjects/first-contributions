@@ -1,9 +1,11 @@
 # Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
+- [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Masaya Kj](https://github.com/Massas)
 - [James Lee] (https://github.com/jameslee98)
@@ -11,6 +13,7 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
+- Arman Kumar Jena
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -35,6 +38,7 @@
 - aditya joshi@DevSocPI
 - JamesBond 
 - Ezad Haziq Bin Zamily
+- [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
 - [Raghav Jit](https://github.com/RaghavJit)
@@ -143,6 +147,7 @@
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
+- [Handan Yenial]
 - Atul M@DevsocPI
 - [Lesh Chadick](https://github.com/lesh2)
 - [Dhruv Pandey@DevsocPI](https://github.com/dhruv12pandey)
@@ -238,6 +243,7 @@ _ [ ayush Z] @ devsocPI
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
+- [desk7](https://github.com/desk7)
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Anand Dubey](https://github.com/AnandDubey1711)
@@ -977,6 +983,7 @@ _ [ ayush Z] @ devsocPI
 - [Harsa Dash](https://github.com/harsadas)
 - [Samar@DevsocPI](https://github.com/canondroid)
 - [Jiao Liu](https://github.com/ildnyy)
+- [peng_cheng](https://github.com/wespc)
 - [Leonel Santos](https://github.com/leonelSantos)
 - [Vijay Singh Kushwaha](https://github.com/h3110Fr13nd)
 - [Vatler Lett](https://github.com/scarlett1130)
@@ -1029,6 +1036,7 @@ _ [ ayush Z] @ devsocPI
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
